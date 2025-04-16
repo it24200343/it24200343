@@ -10,7 +10,7 @@
 
 ![size](https://img.shields.io/github/repo-size/it24200343/it24200343?color=purple&label=Repo%20Size&style=plastic)
 ![license](https://img.shields.io/github/license/it24200343/X-UI-English-?color=purple&label=License&style=plastic)
-![developer](https://img.shields.io/static/v1?label=Author&message=Vehan%20Rajintha&color=purple&style=plastic)
+![developer](https://img.shields.io/static/v1?label=Author&message=IT%2024200343&color=purple&style=plastic)
 
 
 
@@ -33,7 +33,7 @@
 - 🕺 I'm  also member of KCD , GDG & AICSL..
 - 💞️ I’m looking to collaborate on building websites and web apps, developping linux tools, Linux server operations and...
 - 📫 Email me via IT24200343@my.sliit.lk to contact
-- 🤩 Follow me on Instagram https://www.instagram.com/vehanrajintha/
+- 🤩 Follow me on Instagram https://www.instagram.com/eshmiavekshika/
 - 💬 Text me on WhatsApp +94702260299
 
 
